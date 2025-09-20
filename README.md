@@ -1,5 +1,7 @@
 ## 👋 Hola, soy Sergio González
 
+<img src="Banner.png" />
+
 Soy un apasionado de la programación desde el 2020 que conocí este mundo. En el 2024 decidí dar el paso de profesionalizarme y empecé a cursar un Grado Superior de Desarrollo de Aplicaciones Multiplataforma.
 <br>
 Actualmente estoy en busca de una empresa para realizar las prácticas mientras termino 2º de DAM, con muchas ganas de entrar en el mundo laboral.
