@@ -2,15 +2,17 @@
 
 <img src="Banner.png" />
 
-Soy un apasionado de la programación desde el 2020 que conocí este mundo. En el 2024 decidí dar el paso de profesionalizarme y empecé a cursar un Grado Superior de Desarrollo de Aplicaciones Multiplataforma.
+Soy un apasionado de la programación desde el 2020 que conocí este mundo. En el 2024 decidí dar el paso de profesionalizarme y empecé a cursar un Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma.
 <br>
-Actualmente estoy en busca de una empresa para realizar las prácticas mientras termino 2º de DAM, con muchas ganas de entrar en el mundo laboral.
+Actualmente he finalizado la formación académica del ciclo y me encuentró buscando una empresa donde realizar mis prácticas e iniciar mi trayectoria profesional como desarrollador backend, con especial interés en Java y tecnologías relacionadas.
 
 ## 💻 Tecnologías
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ## 📬 Contacto  
